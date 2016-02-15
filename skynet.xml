@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!----------------------
+					S K Y N E T
+					
+					
+				  Cyberdyne Systems © 2016
+					
+-->
+
+<items>
+<items_info>
+      <title>S K Y N E T </title> 
+      <thumbnail>http://i.imgur.com/g3Uj41D.png</thumbnail>
+      <fanart>http://i.imgur.com/EmE0ari.jpg</fanart>
+ </items_info>
+ 
+<item>
+<title>[COLOR red]                                                S  K  Y[/COLOR][COLOR red][B]  N  E  T[/B][/COLOR]</title>
+<link>nolink.xml</link><thumbnail>http://i.imgur.com/g3Uj41D.png</thumbnail>
+<fanart>http://i.imgur.com/EmE0ari.jpg</fanart>
+</item>
+<item>
+<title>[COLOR gray]Actualizado: [COLOR white]14[/COLOR] • Febrero • 2016[/COLOR]</title>
+<link>nolink.xml</link><thumbnail>http://i.imgur.com/g3Uj41D.png</thumbnail>
+<fanart>http://i.imgur.com/EmE0ari.jpg</fanart>
+</item>
+
+
+
+<item>
+<title> </title>
+<link>http://nolink</link><thumbnail>http://i.imgur.com/g3Uj41D.png</thumbnail>
+<fanart>http://i.imgur.com/EmE0ari.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR gray]Lista de canales de Movistar+ y TDT[/COLOR]      </title>
+<link>http://nolink</link><thumbnail>http://i.imgur.com/g3Uj41D.png</thumbnail>
+<fanart>http://i.imgur.com/EmE0ari.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Movistar+ [/COLOR]</title>
+<link>http://nolink</link><thumbnail>http://i.imgur.com/g3Uj41D.png</thumbnail>
+<fanart>http://i.imgur.com/EmE0ari.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skynet-cyberdyne/modules/lists/1.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  Deportes [/COLOR]</title>
+<link>http://nolink</link><thumbnail>http://i.imgur.com/g3Uj41D.png</thumbnail>
+<fanart>http://i.imgur.com/EmE0ari.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skynet-cyberdyne/modules/lists/2.xml</externallink>
+</item>
+<item>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue]  TDT [/COLOR]  -Actualmente no disponible</title>
+<link>http://nolink</link><thumbnail>http://i.imgur.com/g3Uj41D.png</thumbnail>
+<fanart>http://i.imgur.com/EmE0ari.jpg</fanart>
+<externallink>https://raw.githubusercontent.com/skynet-cyberdyne/modules/lists/3.xml</externallink>
+</item>
+
+
+
+<item>
+<title> </title>
+<link>skynet.xml</link><thumbnail>http://i.imgur.com/g3Uj41D.png</thumbnail>
+<fanart>http://i.imgur.com/EmE0ari.jpg</fanart>
+</item>
+<title> </title>
+<link>skynet.xml</link><thumbnail>http://i.imgur.com/g3Uj41D.png</thumbnail>
+<fanart>http://i.imgur.com/EmE0ari.jpg</fanart>
+</item>
+
+
+
+<item>
+<title>[COLOR gray]Cyberdyne Systems © 2016[/COLOR]      </title>
+<link>skynet.xml</link><thumbnail>http://i.imgur.com/g3Uj41D.png</thumbnail>
+<fanart>http://i.imgur.com/EmE0ari.jpg</fanart>
+</item>
+
+--> 
+
+</items>

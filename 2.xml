@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+
+<!----------------------
+					S K Y N E T
+					
+					
+				  Cyberdyne Systems © 2016
+					
+-->
+<items>
+
+<item>
+<sportsdevil>http://hispaniatv.tv/canales/canal-plus-liga.html</sportsdevil>
+<referer>http://hipaniatv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Canal+ Liga HD[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Canal+ Liga HD</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multiliga2/canal1.html</sportsdevil>
+<referer>http://hipaniatv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Canal+ Liga2[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Canal+ Liga2</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plus-partidazo.php</sportsdevil>
+<referer>http://hipaniatv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Canal+ Partidazo[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Canal+ Partidazo</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusfutbol.php</sportsdevil>
+<referer>http://hipaniatv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Canal+ Futbol[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Canal+ Futbol</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/multideportes/canal1.html</sportsdevil>
+<referer>http://hipaniatv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Canal+ Deportes[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Canal+ Futbol</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusdeportes2.php</sportsdevil>
+<referer>http://hipaniatv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Canal+ Deportes2[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Canal+ Futbol</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/plusgolf.php</sportsdevil>
+<referer>http://hipaniatv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Canal+ Golf[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Canal+ Futbol</info> 
+</item>
+
+<item>
+<sportsdevil>http://hispaniatv.tv/canales/goltv.html</sportsdevil>
+<referer>http://hipaniatv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] BeiN Sports ES[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>BeiN Sports ES</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/teledeporte.php</sportsdevil>
+<referer>http://hipaniatv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] TeleDeporte[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>TeleDeporte</info> 
+</item>
+
+
+<item>
+<sportsdevil>http://hispaniatv.tv/canales/eurosports.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Eurosports[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Eurosports</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/foxsports.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] FOX Sports[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>FOX Sports</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/espn.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] ESPN Vivo[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>ESPN Vivo</info> 
+</item>
+
+<item>
+<sportsdevil>http://cinestrenostv.tv/canales/deportes/directv-sports.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] DirectTV Sports[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>DirectTV Sports</info> 
+</item>
+
+
+<item>
+<title> </title>
+<link>skynet.xml</link><thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail><fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+</item>
+
+
+<item>
+<sportsdevil>http://mamahd.com/watch-sky-sports-1-live-stream-1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Sky Sports1[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Sky Sports1</info> 
+</item>
+
+<item>
+<sportsdevil>http://mamahd.com/watch-sky-sports-2-live-streaming-free-1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Sky Sports2[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Sky Sports2</info> 
+</item>
+
+<item>
+<sportsdevil>http://mamahd.com/watch-sky-sports-3-live-stream-1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Sky Sports3[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Sky Sports3</info> 
+</item>
+
+<item>
+<sportsdevil>http://mamahd.com/watch-sky-sports-4-live-stream-free-1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Sky Sports4[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Sky Sports4</info> 
+</item>
+
+<item>
+<sportsdevil>http://mamahd.com/watch-sky-sports-5-live-stream-1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Sky Sports5[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Sky Sports5</info> 
+</item>
+
+<item>
+<sportsdevil>http://mamahd.com/sky-calcio-1-live-stream-1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Sky Calcio[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Sky Calcio</info> 
+</item>
+
+<item>
+<sportsdevil>http://mamahd.com/watch-sky-sports-formula-1-live-stream-1.html</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Sky Sports FormulaOne[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Sky Formula One</info> 
+</item>
+
+<item>
+<sportsdevil>http://www.cloud-tivu.net/geo/OfficialRai/RaiSport1_Estero.php</sportsdevil>
+<referer>http://cinestrenostv.tv</referer>
+<title>[COLOR lime]•[/COLOR][COLOR deepskyblue] Rai Sport1 HD[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Rai Sport1</info> 
+</item>
+
+
+<item>
+<title> </title>
+<link>skynet.xml</link><thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail><fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+</item>
+
+
+<item>
+<sportsdevil>http://www.cloud-tivu.net/geo/OfficialRai/RaiSport1_Estero.php</sportsdevil>
+<referer>http://verdirectotv.com</referer>
+<title>[COLOR orange] Test Channel  -No usar[/COLOR]</title>
+<thumbnail>http://cdn.shopify.com/s/files/1/0301/0501/products/T0417---Skynet.png</thumbnail>
+<fanart>http://www.mubis.es/media/users/11242/124658/mi-opinion-sobre-terminator-genesis-yossarian-original.jpg</fanart>
+<info>Test Channel</info> 
+</item>
+
+</items>
